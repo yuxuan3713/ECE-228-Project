@@ -1,0 +1,1 @@
+foldPath = '/Users/liuyuxuan/Downloads/UrbanSound8K/audio/fold'
