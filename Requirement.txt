@@ -1,0 +1,5 @@
+Matlab 2019a (matlab has bugs on previous version)
+Deep Learning Toolbox
+Signal Processing Toolbox
+Parallel Computing Toolbox
+Audio ToolBox
